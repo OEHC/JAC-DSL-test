@@ -9,13 +9,13 @@
 	MAIL				Address to send job mails to		(ex.: me@praqma.net)
 */
 
-def CREDENTIALS = 100247a2-70f4-4a4e-a9f6-266d139da9db
-def ELIVERY_BRANCHES = */ready/*
-def BRANCH = master
-def NAME = memory-map-plugin
-def REPO = https://github.com/OEHC/JAC-DSL-test.git
-def ARTIFACTS_DIR = artifacts
-def MAIL = oehc@praqma.net
+def CREDENTIALS = '100247a2-70f4-4a4e-a9f6-266d139da9db'
+def ELIVERY_BRANCHES = '*/ready/*'
+def BRANCH = 'master'
+def NAME = 'memory-map-plugin'
+def REPO = 'https://github.com/Praqma/memory-map-plugin.git'
+def ARTIFACTS_DIR = 'artifacts'
+def MAIL = 'thi@praqma.net'
 
 /***************************\
 | VERIFY INTEGRATION BRANCH |
