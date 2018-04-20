@@ -10,7 +10,7 @@
 */
 
 def CREDENTIALS = '100247a2-70f4-4a4e-a9f6-266d139da9db'
-def ELIVERY_BRANCHES = '*/ready/*'
+def DELIVERY_BRANCHES = '*/ready/*'
 def BRANCH = 'master'
 def NAME = 'memory-map-plugin'
 def REPO = 'https://github.com/Praqma/memory-map-plugin.git'
